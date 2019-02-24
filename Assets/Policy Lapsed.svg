@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38">
+  <g id="Policy_Lapsed" data-name="Policy Lapsed" transform="translate(-208 -991)">
+    <circle id="Ellipse_15" data-name="Ellipse 15" cx="19" cy="19" r="19" transform="translate(208 991)" fill="#de241c"/>
+    <g id="timelapse" transform="translate(142.552 937)">
+      <g id="Group_45" data-name="Group 45" transform="translate(74.448 64)">
+        <g id="Group_44" data-name="Group 44" transform="translate(0 0)">
+          <path id="Path_43" data-name="Path 43" d="M479.945,222.2C479.937,228.857,479.945,215.547,479.945,222.2Z" transform="translate(-459.945 -212.735)" fill="#fff"/>
+          <path id="Path_44" data-name="Path 44" d="M91.879,69.549A9.391,9.391,0,0,0,83.331,64h-.783v3.156h1.566V65.618a7.89,7.89,0,1,1-7.553,11.815l7.553-3.455V71.89H82.549V72.96l-8.1,3.709.327.72a9.365,9.365,0,0,0,12.441,4.7A9.5,9.5,0,0,0,91.879,69.549Z" transform="translate(-74.448 -64)" fill="#fff"/>
+          <rect id="Rectangle_30" data-name="Rectangle 30" width="1.722" height="1.722" transform="translate(8.101 4.695)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

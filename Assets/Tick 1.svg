@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54.565" height="54.565" viewBox="0 0 54.565 54.565">
+  <g id="Tick_1" data-name="Tick 1" transform="translate(-297 -265.752)">
+    <circle id="Ellipse_10" data-name="Ellipse 10" cx="27.283" cy="27.283" r="27.283" transform="translate(297 265.752)" fill="#55a624"/>
+    <g id="tick_1_" data-name="tick (1)" transform="translate(311.881 284.354)">
+      <g id="Group_42" data-name="Group 42" transform="translate(0)">
+        <path id="Path_39" data-name="Path 39" d="M24.439,68.361a1.24,1.24,0,0,0-1.754,0L7.827,83.218,2.117,77.507A1.24,1.24,0,0,0,.363,79.261l6.588,6.588a1.24,1.24,0,0,0,1.754,0L24.439,70.115A1.24,1.24,0,0,0,24.439,68.361Z" transform="translate(0 -67.997)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
